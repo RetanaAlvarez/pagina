@@ -50,6 +50,14 @@ body {
     font-size: 100%;
     color: white
 }
+.container4 .left img{
+    width: 135%;
+}
+.container4 .right img{
+    width: 45%;
+    padding-left: 8rem;
+    
+}
 
 .bienvenida h3 {
     text-shadow: 2px 2px 10px rgb(27, 40, 160);
