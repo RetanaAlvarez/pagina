@@ -141,6 +141,12 @@ body {
     padding: 0rem 2rem;
     width: 70%;
 }
+.container4 .left img{
+    width: 120%;
+}
+.container4 .right img{
+    width: 35%;
+}
 
 .contacto img {
     display: flex;
